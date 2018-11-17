@@ -1,5 +1,4 @@
-# This file has been written to your home directory for convenience. It is
-# saved as "/home/pi/temperature-2018-11-09-16-37-04.py"
+# SenseHat temperature and matrix example
 
 from sense_emu import SenseHat
 
